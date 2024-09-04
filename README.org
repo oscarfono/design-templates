@@ -1,0 +1,12 @@
+#+TITLE: Open Source Design Templates
+#+AUTHOR: Cooper Oscarfono
+#+EMAIL:  cooper@oscarfono.com
+
+The following repository contains design templates I've created for various open source tools and technologies I use.
+
+* Gimp
+* HTML
+* Inkscape
+* LᵃTₑX
+* Scribus
+** [[file:scribus/resume-template/resume-template.pdf][Resume-template]]
