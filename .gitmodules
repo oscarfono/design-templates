@@ -1,0 +1,3 @@
+[submodule "scribus-templates"]
+	path = scribus-templates
+	url = git@github.com:oscarfono/scribus-templates.git
